@@ -22,12 +22,13 @@ The project employs a combination of techniques:
 
 1.  **Spatial Analysis & Clustering:**
     * Kernel Density Estimation (KDE) is used to identify hotspots of gun violence.
+    * Visualize Hotspots using Folium Map, Scatter Plot, GeoDataFrame Creation and Local Moran's I. 
     * K-means clustering is applied to identify spatial clusters of gun violence incidents, revealing underlying geographical patterns.
     * Spatial autocorrelation analysis may also be used to assess the clustering of incidents.
 
 2.  **Temporal Analysis & Clustering:**
     * Temporal clustering (k-means) is used to identify distinct time periods with similar incident patterns (e.g., high-risk hours, days of the week, months).
-    * Recurrent Neural Networks (RNNs), specifically LSTMs or GRUs, are used to model the time series data and forecast future incidents. ARIMA models may be used as a baseline for comparison.
+    * STL models may be used as a baseline for comparison.
 
 3.  **Risk Factor Analysis:**
     * Regression models are used to explore potential correlations between various factors (including demographics, socioeconomic indicators, and incident characteristics) and gun violence.
@@ -82,5 +83,7 @@ This project acknowledges the sensitive nature of data related to gun violence a
 *   missingno (for visualizing missing data)
 *   statsmodels
 *   math
+*   geopandas
+*   pysal
 *   Other libraries as needed (list them in `requirements.txt`)
 
