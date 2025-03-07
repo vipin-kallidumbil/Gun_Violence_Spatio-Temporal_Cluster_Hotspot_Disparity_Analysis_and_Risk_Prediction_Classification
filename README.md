@@ -66,7 +66,7 @@ This project acknowledges the sensitive nature of data related to gun violence a
 
 ## Getting Started
 
-1.  Clone the repository: `git clone https://github.com/vipin-kallidumbil/Gun-Violence-Analysis-Spatio-Temporal-Patterns-and-Risk-Factors.git`
+1.  Clone the repository: `https://github.com/vipin-kallidumbil/Gun-Violence-Spatio-Temporal-Cluster-and-Hotspot-Analysis-Prediction-and-Risk-Classification.git`
 2.  Install the required libraries: `pip install -r requirements.txt`
 3.  Run the code: `Gun Violence Spatio-Temporal Cluster and Hotspot Analysis, Prediction, and Risk Classification.ipynb`
 
