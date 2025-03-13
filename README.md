@@ -1,4 +1,4 @@
-# Gun Violence Spatio-Temporal Cluster, Hotspot, and Disparity Analysis, Prediction, and Risk Classification
+# Gun Violence Spatio-Temporal Cluster, Hotspot, Disparity Analysis and Risk Prediction/Classification
 
 This project investigates the complex patterns of gun violence by analyzing both where (spatial) and when (temporal) incidents occur, using clustering to reveal underlying groupings, hotspots to pinpoint high-risk areas, and disparity analysis to reveal inequalities. It aims to identify distinct spatial and temporal clusters, understand the factors that may contribute to gun violence within these clusters, understand disparities across different groups, develop predictive models to forecast future incidents, and classify areas based on risk levels. The insights gained from cluster analysis, disparity analysis, and predictive modeling can inform data-driven strategies for violence reduction.
 
@@ -80,7 +80,7 @@ This project acknowledges the sensitive nature of data related to gun violence a
 
 1.  Clone the repository: [`https://github.com/vipin-kallidumbil/Gun_Violence_Spatio-Temporal_Cluster_Hotspot_Disparity_Analysis_and_Risk_Prediction_Classification.git`](https://github.com/vipin-kallidumbil/Gun_Violence_Spatio-Temporal_Cluster_Hotspot_Disparity_Analysis_and_Risk_Prediction_Classification.git)
 2.  Install the required libraries: `pip install -r requirements.txt`
-3.  Run the code: `Gun Violence Spatio-Temporal Cluster and Hotspot Analysis, Prediction, and Risk Classification.ipynb`
+3.  Run the code: `Gun Violence Spatio-Temporal Cluster, Hotspot, Disparity Analysis and Risk Prediction_Classification.ipynb`
 
 ## Requirements
 
