@@ -64,8 +64,9 @@ The project employs a combination of techniques:
     * Cluster 1 showed a peak in incidents between 8 PM and 12 AM, suggesting a correlation with nighttime activity.
 
 * **Disparity Analysis:**
-    * Disparity analysis revealed significant differences in gun violence incidents across racial groups, with [Specific statistics to be added here after analysis].
-    * [Add other specific findings related to disparities here after analysis].
+    * Disparity analysis revealed significant differences in gun violence incidents across racial groups, with RACE_BLK are more killed.
+    * In the case of GENDER, MALES are more killed by gun violence.
+    * Most gun violence incidents are occured in the STREET in LOCATION_GROUPS.
 
 ## Model Performance (To be populated after model training)
 
